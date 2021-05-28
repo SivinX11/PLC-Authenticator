@@ -87,8 +87,10 @@ def main():
 	st.sidebar.markdown("* Prateek Yashaswi")
 	st.sidebar.markdown("* Rishav Chowdhury")
 	st.sidebar.markdown("* Sivin Varughese")
-	link1 = '[Presentation](https://rishav-chowdhury.github.io/)'
-	link2 = '[Video](https://github.com/Rishav-Chowdhury)'
+	st.sidebar.markdown("* Varun R Swaminathan")
+	st.sidebar.markdown("* Rishabh Pagaria")
+	link1 = '[Presentation](https://drive.google.com/file/d/1YaOzeGm5eWynRRwcciddp_TIJqk2ronZ/view?usp=sharing)'
+	link2 = '[Video](https://drive.google.com/file/d/11050KdzpNebcCi5EujV5-01MkFnOenCk/view?usp=sharing)'
 	st.sidebar.markdown("# ")
 	st.sidebar.markdown(link1, unsafe_allow_html=True)
 	st.sidebar.markdown(link2, unsafe_allow_html=True)
